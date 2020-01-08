@@ -3,7 +3,7 @@ Robs portfolio
 
 
 ## Social Media
-<color=red>**Youtube -**</color> *https://www.youtube.com/*
+<color=red><b>Youtube -</b></color> *https://www.youtube.com/*
 
 **Facebook -** *https://en-gb.facebook.com/*
 
