@@ -25,6 +25,8 @@
 
 **Personal Email -** *robertr7111@gmail.com*
 
+**Slack -** *https://app.slack.com/client/TS1AR0RFU/CSE4DJ3LY*
+
 
 ## Portfolio
 
