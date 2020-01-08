@@ -3,7 +3,7 @@ Robs portfolio
 
 
 ## Social Media
-<img src="https://user-images.githubusercontent.com/59654263/71986712-d1e6d980-3224-11ea-9d3a-002f7f404d57.png" width="200" height="121" alt="Photo of 3 cats">
+<img src="https://user-images.githubusercontent.com/59654263/71986712-d1e6d980-3224-11ea-9d3a-002f7f404d57.png" width="700" height="200" alt="Photo of 3 cats">
 
 **Youtube -** *https://www.youtube.com/*
 
