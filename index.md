@@ -3,8 +3,16 @@ Robs portfolio
 
 
 ## Social Media
-<meta name=**"Youtube -"** content="#FF0000"> *https://www.youtube.com/*
+**Youtube -** *https://www.youtube.com/*
 
 **Facebook -** *https://en-gb.facebook.com/*
 
 **Instagram** - *https://www.instagram.com/*
+
+## My Skills
+
+**I have basic knwoledge of unity and blender.**
+
+## Contact Info
+
+**Email -** *162900@chrome.escg.ac.uk*
