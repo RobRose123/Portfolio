@@ -3,13 +3,13 @@ Robs portfolio
 
 
 ## Social Media
-![YouTube](https://imgur.com/wU8mCIg)
+![YouTube]()
 **Youtube -** *https://www.youtube.com/*
 
-![Facebook](file:///H:/Pictures/fb.png)
+![Facebook]()
 **Facebook -** *https://en-gb.facebook.com/*
 
-![Instagram](https://imgur.com/2vZh9aG)
+![Instagram]()
 **Instagram** - *https://www.instagram.com/*
 
 ## My Skills
