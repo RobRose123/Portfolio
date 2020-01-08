@@ -17,7 +17,7 @@
 
 ## My Skills
 
-**I have basic knwoledge of unity and blender.**
+**I have basic skills in unity and blender.**
 
 ## Contact Info
 
