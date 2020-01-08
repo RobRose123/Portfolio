@@ -24,3 +24,9 @@
 **Business Email -** *162900@chrome.escg.ac.uk*
 
 **Personal Email -** *robertr7111@gmail.com*
+
+
+## Portfolio
+
+**Bitbucket -** *https://bitbucket.org/dashboard/repositories*
+**Repl.it -** *https://repl.it/@RobR7111*
