@@ -27,3 +27,44 @@
 
 **Bitbucket -** *https://bitbucket.org/dashboard/repositories*<br>
 **Repl.it -** *https://repl.it/@RobR7111*
+
+
+
+
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>form</title>
+	</head>
+	<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+	
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<body>
+		
+		
+		<form action="https://formspree.io/myyejeyk" method="POST" class="pure-form pure-form-stacked">
+			
+
+		<fieldset class="pure-group">
+			<input type="text" class="pure-input-1-2" placeholder="First Name">
+		
+			<input type="text" class="pure-input-1-2" placeholder="Last Name">
+			
+			<input type="email" class="pure-input-1-2" placeholder="Email">
+			</fieldset>
+			
+			<fieldset class="pure-group">
+        	<textarea class="pure-input-1-2" placeholder="Comment"></textarea>
+    		</fieldset>
+			
+			
+			<button type="submit" class="pure-button pure-input-1-2 pure-button-primary">Submit</button>
+		
+		
+			
+		</form>
+	</body>
+</html>
