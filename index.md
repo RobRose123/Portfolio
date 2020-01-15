@@ -21,10 +21,8 @@
 
 ## Contact Info
 
-**Business Email -** *162900@chrome.escg.ac.uk*
-
-**Personal Email -** *robertr7111@gmail.com*
-
+**Business Email -** *162900@chrome.escg.ac.uk*<br>
+**Personal Email -** *robertr7111@gmail.com*<br>
 **Slack -** *https://app.slack.com/client/TS1AR0RFU/CSE4DJ3LY*
 
 
