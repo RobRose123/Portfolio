@@ -1,7 +1,7 @@
 # social
 
 ## Slack
-- (https://app.slack.com/client/TS1AR0RFU/CSE4DJ3LY)
+<https://app.slack.com/client/TS1AR0RFU/CSE4DJ3LY>
 
 ## Repl.it
 - https://repl.it/@RobR7111
